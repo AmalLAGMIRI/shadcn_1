@@ -120,3 +120,43 @@
     @apply bg-background text-foreground;
   }
 }
+.editor {
+  outline: none;
+}
+
+h1 {
+  font-size: 2.5rem;
+  font-weight: 600;
+}
+h2 {
+  font-size: 2rem;
+  font-weight: 600;
+}
+h3 {
+  font-size: 1.75rem;
+  font-weight: 600;
+}
+h4 {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+h5 {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+h6 {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+}
+ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+}
+li {
+  margin-bottom: 0.5rem;
+}
